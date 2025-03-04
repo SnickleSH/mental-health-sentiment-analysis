@@ -6,6 +6,8 @@
 
 Training machine learning models aimed at understanding and predicting mental health conditions based on textual data.
 
+Data: https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data
+
 ## Project Organization
 
 ```
